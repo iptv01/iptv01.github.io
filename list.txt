@@ -89,10 +89,14 @@ CCTV-4,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32212263
 CCTV-4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 CCTV-5,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 CCTV-5+,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
 CCTV-7,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+CCTV-8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 CCTV-9,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 CCTV-9,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
 CCTV-10,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-11,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-11,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
 CCTV-12,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 CCTV-12,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
