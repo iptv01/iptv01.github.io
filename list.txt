@@ -1,42 +1,35 @@
 香港频道,#genre#
-翡翠台,http://pull.scphsd.com:80/live/6f23edba015c248071c654adcf51c991.flv
-翡翠台,http://pull.scphsd.com:80/live/8ef4646afc32511ae7043526245ff2d2/playlist.m3u8
 翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
-翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
-明珠台,http://pull.scphsd.com:80/live/7376b2e6cb8c6804224a6ba0f8e15925.flv
-明珠台,http://pull.scphsd.com:80/live/7376b2e6cb8c6804224a6ba0f8e15925/playlist.m3u8
+無綫新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-明珠台,p2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
-无线新闻台,http://pull.scphsd.com:80/live/c81712ff50340aa0863ba5c956b2f0a1.flv
-无线新闻台,http://pull.scphsd.com:80/live/a5a46df51c37679369d60e726f1ef480/playlist.m3u8
-无线新闻台,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-有线新闻台,http://pull.scphsd.com:80/live/17504e8763371ab0b80c1501df0ee09b.flv
-有线新闻台,http://pull.scphsd.com:80/live/d4c6c4f4a965672d48edc80d6cacfb09/playlist.m3u8
-有线新闻台,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
-Viutv,http://pull.scphsd.com:80/live/02d81fe52bb1813080c31f2c3169bd30.flv
-Viutv,http://pull.scphsd.com:80/live/02d81fe52bb1813080c31f2c3169bd30/playlist.m3u8
-J2,http://pull.scphsd.com:80/live/b7551fd7576c67b4d2533f5ae376d4d9.flv
-J2,http://pull.scphsd.com:80/live/5a320567d90acc31178e54a8946823b2/playlist.m3u8
 J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-J2,P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
-NOW新闻台,http://pull.scphsd.com:80/live/2fdf7e62c6af19a2f13dc9147768789c/playlist.m3u8
-有线电影,http://pull.scphsd.com:80/live/cc83db55ff5956d1d210c0e5c1123bc3.flv
-无线财经,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
-viu6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
-開电视,http://pull.scphsd.com:80/live/42f6beed8ffbd6953af7e1dc8b3310d6.flv
-星河频道,http://pull.scphsd.com:80/live/d46e1e61c2ae40740c8c6cfc6c9281ee.flv
-星河频道,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
-星河频道,P2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
-ATV,https://15813114727637862976168173814320.live.prod.hkatv.com:443/a1_cbr_lo_720p.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-8频道,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-凤凰卫视中文台,http://ywotttv.bj.chinamobile.com:80/PLTV/88888888/224/3221225948/1.m3u8
-凤凰卫视中文台,p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
-凤凰卫视中文台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰卫视资讯台,http://ywotttv.bj.chinamobile.com:80/PLTV/88888888/224/3221225949/1.m3u8
-凤凰卫视资讯台,http://liveali.ifeng.com/live/FHZX.flv
-凤凰卫视资讯台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰中文台 HD,P2p://lino.homeunix.com:6007/59fd0c6c0006fd67024502e414f10ff3.ts
+凤凰资讯台 HD,P2p://lino.homeunix.com:6007/59fd0c48000e15630244781932ff7852.ts
+翡翠台,P2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台 备,P2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
+互动新闻,P2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+互动新闻 备,P2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
+J2台,P2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts
+J2台 备,P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
+J5台,P2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
+J5台 备,P2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
+明珠台,P2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
+明珠台 备,P2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
+星河频道,P2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts 
+TVB经典台,P2p://lino.homeunix.com:6007/5b2f1fc50006bfe610a020d967055499.ts
+功夫台,P2p://lino.homeunix.com:6007/5a32174e0001f481d4b0ec8f67f06c2b.ts
+viu TV,P2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
+viu TV备,P2p://lino.homeunix.com:6007/5ad32bae0001dd1049ed9be114c818f0.ts
+viu 6,P2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
+有线新闻台,P2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
+31有线新闻台,P2p://lino.homeunix.com:6007/5a3251a3000ddd81d594cba410f708d7.ts
+HKC财经资讯台,P2p://lino.homeunix.com:6007/5b062d6d000a4d8670acf35f53803edf.ts
+电影一台,P2p://lino.homeunix.com:6007/5a4726e4000667ca26f6a98d6a9d25a7.ts
+HKC603,P2p://lino.homeunix.com:6007/5a47271f0008d01726f790b134496406.ts
+HKC体育2台,P2p://lino.homeunix.com:6007/5a142556000de0a75fb6e584062e2de9.ts
+香港开电视,P2p://lino.homeunix.com:6007/5bfe45350001d559aff550f375a22110.ts
+惊悚电影台,P2p://lino.homeunix.com:6007/5bbb5555000ac8ac2e8a428a5fc92fa0.ts
+卫视卡式台,P2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
 央视频道,#genre#
 CCTV-1綜合,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-1綜合,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
