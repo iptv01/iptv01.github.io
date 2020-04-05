@@ -1,13 +1,5 @@
 香港频道,#genre#
-翡翠台,http://175.43.23.39:80/hdl0901.plures.net/onlive/38b1973df6c65f69d7ce05c42a6d17df.flv?wshc_tag=0&wsts_tag=5e89b87e&wsid_tag=1b296f2b&wsiphost=ipdbm
-明珠台,http://175.43.23.38:80/hdl0901.plures.net/onlive/5ef20da984ab1bd139265fa996c05ca0.flv?wshc_tag=0&wsts_tag=5e89b8b7&wsid_tag=1b296f2b&wsiphost=ipdbm
-NOW新闻台,http://ter.zgsgllive.ksmobile.net:80/yolo/55a76c7b5f7b9e798b962156df5ae1e7/playlist.m3u8?wsSession=d9b617a028eb5478648b954d-158608416124830&wsIPSercert=766e777c27860b3d9bffef14ebf9b0e0&wsMonitor=0
-J2台,http://175.43.20.38:80/hdl0901.plures.net/onlive/0fae66ea2fc2a76d325b2cf3412505e1.flv?wshc_tag=0&wsts_tag=5e89b97f&wsid_tag=1b296f2b&wsiphost=ipdbm
-无线新闻台,http://112.91.133.175:80/hdl0901.plures.net/onlive/d84c1baaca126002831fdfe6690ea305.flv?wshc_tag=0&wsts_tag=5e89bcb2&wsid_tag=1b296f2b&wsiphost=ipdbm
-有线新闻台,http://ter.zgsgllive.ksmobile.net:80/yolo/1b46cae26958d5d48a74a880986f158e/playlist.m3u8?wsSession=d9b617a028eb5478648b954d-158608472271958&wsIPSercert=766e777c27860b3d9bffef14ebf9b0e0&wsMonitor=0
-有线新闻台,http://ter.zgsgllive.ksmobile.net:80/yolo/1b46cae26958d5d48a74a880986f158e/playlist.m3u8?wsSession=d9b617a028eb5478648b954d-158608472271958&wsIPSercert=766e777c27860b3d9bffef14ebf9b0e0&wsMonitor=0
-有线新闻台,https://icable.cdn.utvhk.com:443/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-ViuTV,http://175.43.20.26:80/hdl0901.plures.net/onlive/80f4ee9bd416133c57894a3032349e52.flv?wshc_tag=0&wsts_tag=5e89bf6c&wsid_tag=1b296f2b&wsiphost=ipdbm
+
 凤凰资讯台,http://ywotttv.bj.chinamobile.com:80/PLTV/88888888/224/3221225949/1.m3u8
 凤凰中文台,http://ywotttv.bj.chinamobile.com:80/PLTV/88888888/224/3221225948/1.m3u8
 央视频道,#genre#
