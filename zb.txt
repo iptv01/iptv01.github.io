@@ -6,7 +6,7 @@
 无线新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
 无线新闻720,https://4gr5ukmtwgczdrcbqge5y.ourdvsss.com:443/hdl0901.plures.net/onlive/0f1dfe9ca446805894ad726a4cce7c9a.flv
 无线新闻1080p,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b1096000.m3u8
-有线新闻720,
+有线新闻720,https://4gr5ukmtwgczdrcbqge5y.ourdvsss.com:443/hdl0901.plures.net/onlive/f729902225cbf687f26ac39e0608cac0.flv
 有线新闻1080p,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
 明珠台720,https://4gr5ukmtwgczdrcbqgchy.ourdvsss.com:443/hdl0901.plures.net/onlive/fd11e12c6a0d3ce4820674eac1dc8af2.flv
 明珠台1080p,http://175.43.20.26/hdl0901.plures.net/onlive/5633eecb8c912187ca8e2d6f3128acfd.flv
