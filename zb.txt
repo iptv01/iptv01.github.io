@@ -1,19 +1,17 @@
 ﻿香港频道,#genre#
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
-翡翠台720P,https://4gr5ukmtwgczdrc3qgr3y.ourdvsss.com:443/hdl0901.plures.net/onlive/a6feb006f5c001c093b20c0a9565e695.flv
-翡翠台1080,http://175.43.23.11/hdl0901.plures.net/onlive/a81459d6e1aa9183877b455ab1a0d95c.flv
+翡翠台720P,
 无线新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
-无线新闻720,https://4gr5ukmtwgczdrcbqge5y.ourdvsss.com:443/hdl0901.plures.net/onlive/0f1dfe9ca446805894ad726a4cce7c9a.flv
-无线新闻1080p,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b1096000.m3u8
-有线新闻720,https://4gr5ukmtwgczdrcbqge5y.ourdvsss.com:443/hdl0901.plures.net/onlive/f729902225cbf687f26ac39e0608cac0.flv
-有线新闻1080p,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
-明珠台720,https://4gr5ukmtwgczdrcbqgchy.ourdvsss.com:443/hdl0901.plures.net/onlive/fd11e12c6a0d3ce4820674eac1dc8af2.flv
-明珠台1080p,http://175.43.20.26/hdl0901.plures.net/onlive/5633eecb8c912187ca8e2d6f3128acfd.flv
-ViuTV 720p,https://4gr5ukmtwgczdrc3qgrao.ourdvsss.com:443/hdl0901.plures.net/onlive/e85e7379b9b607cdcfb8606893a88e89.flv
-ViuTV 1080,http://wsrtmp.xdysoft.com/live/296fc22d0b9e45aa262f1d4629a2e10e/playlist.m3u8
-J2 720p,https://4gr5ukmtwgczdrc3qgrao.ourdvsss.com:443/hdl0901.plures.net/onlive/b3783a3d02c6197879fb5cbf39c75059.flv
-J2 1080p,http://175.43.23.11/hdl0901.plures.net/onlive/61679b1a0ded990d16ec57d642626981.flv
+无线新闻720,
+有线新闻720,
+有线新闻1080p,
+明珠台720,
+明珠台1080p,
+ViuTV 720p,
+ViuTV 1080,
+J2 720p,
+J2 1080p,
 凤凰卫视中文,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 凤凰卫视中文,http://qlive.fengshows.cn/live720p/PCC.flv
 凤凰卫视中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
