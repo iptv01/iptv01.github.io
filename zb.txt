@@ -1,17 +1,15 @@
 ﻿香港频道,#genre#
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
-翡翠台720P,
 无线新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
-无线新闻720,
-有线新闻720,
-有线新闻1080p,
-明珠台720,
-明珠台1080p,
-ViuTV 720p,
-ViuTV 1080,
-J2 720p,
-J2 1080p,
+翡翠台,http://104.233.176.65:13164/play.m3u8?token=Yqt%2FFfee3PVWMmJILRa2HE9Y&tid=gt&id=1&p=1#http://104.233.176.65:13164/play.m3u8?token=Yqt%2FFfee3PVWMmJILRa2HE9Y&tid=gt&id=1&p=2#http://104.233.176.65:13164/play.m3u8?token=Yqt%2FFfee3PVWMmJILRa2HE9Y&tid=gt&id=1&p=3#http://104.233.176.65:13164/play.m3u8?token=Yqt%2FFfee3PVWMmJILRa2HE9Y&tid=gt&id=1&p=4
+viutv,http://104.233.176.65:13164/play.m3u8?token=wIKZVpfzNkCpVJVM5yFM0PTW&tid=gt&id=8&p=1#http://104.233.176.65:13164/play.m3u8?token=wIKZVpfzNkCpVJVM5yFM0PTW&tid=gt&id=8&p=2
+无线新闻,http://104.233.176.65:13164/play.m3u8?token=6RKNmAsChEtq6p2S1j2%2Fb1Cs&tid=gt&id=9&p=1#http://104.233.176.65:13164/play.m3u8?token=6RKNmAsChEtq6p2S1j2%2Fb1Cs&tid=gt&id=9&p=2#http://104.233.176.65:13164/play.m3u8?token=6RKNmAsChEtq6p2S1j2%2Fb1Cs&tid=gt&id=9&p=3
+无线财经,http://104.233.176.65:13164/play.m3u8?token=xIn1OMu8f%2BQoRpiJNvfcMjR8&tid=gt&id=10#http://104.233.176.65:13164/play.m3u8?token=xIn1OMu8f%2BQoRpiJNvfcMjR8&tid=gt&id=10&p=1
+TVB J2台,http://104.233.176.65:13164/play.m3u8?token=ggPpZtNg0UL4qycT6yrwhGd%2F&tid=gt&id=12&p=1#http://104.233.176.65:13164/play.m3u8?token=ggPpZtNg0UL4qycT6yrwhGd%2F&tid=gt&id=12&p=2
+明珠台,http://104.233.176.65:13164/play.m3u8?token=FRqE5l5Jf9hy1pN3sbjOZHM3&tid=gt&id=13&p=1#http://104.233.176.65:13164/play.m3u8?token=FRqE5l5Jf9hy1pN3sbjOZHM3&tid=gt&id=13&p=2
+星河频道,http://104.233.176.65:13164/play.m3u8?token=lU6dM3m%2FGBkSFFcDAb8tAe5n&tid=gt&id=17&p=1
+有线新闻,http://104.233.176.65:13164/play.m3u8?token=HHgLAmDDEwpnx7jyp1Zgdwho&tid=gt&id=31&p=1#http://104.233.176.65:13164/play.m3u8?token=HHgLAmDDEwpnx7jyp1Zgdwho&tid=gt&id=31&p=2
 凤凰卫视中文,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 凤凰卫视中文,http://qlive.fengshows.cn/live720p/PCC.flv
 凤凰卫视中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
