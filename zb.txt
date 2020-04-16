@@ -4,7 +4,7 @@
 翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 无线新闻,https://hdl0901.plures.net:443/onlive/8ba5d7e7489871b2d08874d6ed8da54c.flv
 无线新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
-有线新闻,https://hdl0901.plures.net:443/onlive/798147a14c72c8a2d41228fb43a162cf.flv
+有线新闻,https://hdl0901.plures.net/onlive/123456789news.flv
 明珠台,https://hdl0901.plures.net:443/onlive/fd11e12c6a0d3ce4820674eac1dc8af2.flv
 viutv,https://hdl0901.plures.net:443/onlive/e85e7379b9b607cdcfb8606893a88e89.flv
 J2,https://hdl0901.plures.net:443/onlive/eeb49ae27699c74509f602078401df90.flv
