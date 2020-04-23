@@ -1,9 +1,5 @@
 香港频道,#genre#
 翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1
-翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1&p=1
-翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1&p=2
-翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1&p=3
-翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1&p=4
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 无线新闻,http://107.148.240.185:13164/play.m3u8?token=uECIzg0N0Rlq6p2T1jq%2FbFyi&tid=gt&id=9
