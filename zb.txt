@@ -1,5 +1,6 @@
 香港频道,#genre#
 翡翠台,https://1gc5nhctw8rzdncbwfaauepa.ourdvsss.com/hdl0901.plures.net/onlive/aaac3bbd7431f7782ad6feeb6e29f215.flv
+翡翠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/fd2a266cdfda3c687c8421b182aaf29b/playlist.m3u8
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 无线新闻,https://1gc5nhctw8rzdncbwfaauepo.ourdvsss.com/hdl0901.plures.net/onlive/0c8a37bf1f6a20519e559db57a1201d1.flv
