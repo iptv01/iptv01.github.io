@@ -11,14 +11,15 @@ ViuTV,http://107.148.240.185:13164/play.m3u8?token=wYGYUZn4YxOpVJVN5yZK0f7X&tid=
 TVB J2台,http://107.148.240.185:13164/play.m3u8?token=1VjrN4Vu0Bz4qycS6y3xj2J4&tid=gt&id=12
 NOW新聞台,http://107.148.240.185:13164/play.m3u8?token=i1u6JopU98y%2FRScQgdUX1qJE&tid=gt&id=16
 TVB星河,http://107.148.240.185:13164/play.m3u8?token=lE7MNnLoHEISFFcCAbgvCOtg&tid=gt&id=17
-凤凰卫视中文,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-凤凰卫视中文,http://qlive.fengshows.cn/live720p/PCC.flv
-凤凰卫视中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-凤凰卫视中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-凤凰卫视资讯,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-凤凰卫视资讯,http://qlive.fengshows.cn/live720p/PIN.flv
-凤凰卫视资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-凤凰卫视资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+香港有線電影台,http://107.148.240.185:13164/play.m3u8?token=cUmggocmhcEMCjVnRvhdWitv&tid=gt&id=30
+鳳凰衛視中文,http://107.148.240.185:13164/play.m3u8?token=SaRxkyOjdvESQwcan8RHh4fg&tid=gt&id=2
+鳳凰衛視中文,http://qlive.fengshows.cn/live720p/PCC.flv
+鳳凰衛視中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+鳳凰衛視中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+鳳凰衛視資訊,http://107.148.240.185:13164/play.m3u8?token=wYQiUsG%2F5fZNLZ%2FUnkbzbYFc&tid=gt&id=3
+鳳凰衛視資訊,http://qlive.fengshows.cn/live720p/PIN.flv
+鳳凰衛視資訊,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+鳳凰衛視資訊,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 央视频道,#genre#
 CCTV-1,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
