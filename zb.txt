@@ -1,7 +1,9 @@
 香港频道,#genre#
-翡翠台,http://107.148.240.185:13164/play.m3u8?token=ZK1%2BQ%2F%2FJjvJWMmJJLRG2GUZX&tid=gt&id=1&p=1&_res_tag_=video
-翡翠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/0b35946cb77b8e0f3e430ca06310d6c5/playlist.m3u8
-翡翠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/5e6ef4af05b484b70e52b8bead7a5a5d/playlist.m3u8
+翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1
+翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1&p=1
+翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1&p=2
+翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1&p=3
+翡翠台,http://107.148.240.185:13164/play.m3u8?token=Hlcq1ewBTJ0U8Cvl9TmKC4t8&tid=gt&id=1&p=4
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 无线新闻,https://1gc5nhctw8rzdncbwfaauepo.ourdvsss.com/hdl0901.plures.net/onlive/0c8a37bf1f6a20519e559db57a1201d1.flv
