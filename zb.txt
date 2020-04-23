@@ -1,5 +1,5 @@
 香港频道,#genre#
-翡翠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/fd2a266cdfda3c687c8421b182aaf29b/playlist.m3u8
+翡翠台,http://107.148.240.185:13164/play.m3u8?token=ZK1%2BQ%2F%2FJjvJWMmJJLRG2GUZX&tid=gt&id=1&p=1&_res_tag_=video
 翡翠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/0b35946cb77b8e0f3e430ca06310d6c5/playlist.m3u8
 翡翠台,https://pl0-hls.live.huajiao.com/live_huajiao_v2/5e6ef4af05b484b70e52b8bead7a5a5d/playlist.m3u8
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
