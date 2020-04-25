@@ -1,18 +1,11 @@
 香港频道,#genre#
 TVB翡翠台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/b39dd1020d25be6ffe62a49eb2ee3426.flv
-TVB翡翠台,http://120.39.212.41/hdl0901.plures.net/onlive/3bef0ed8d115b38f50f6ec6288f64340.flv
 TVB無線新聞台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/de15f91e640cef55aba804dc87ea7f1e.flv
-香港有線新聞台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/e822adc1512650392a7943ecb21747c3.flv
-香港有線新聞台,http://124.225.108.166/hdl0901.plures.net/onlive/0e579fb5bb8a302486ad3c665c87e065.flv
-TVB無線財經資訊台,http://107.148.240.185:13164/play.m3u8?token=w46nacvsfuwoRpiINvDaPTJ%2F&tid=gt&id=10
+香港有線新聞台,https://3graugmti8rzdgqbqgeauo.ourdvsss.com/hdl0901.plures.net/onlive/9819995f2ea0526817891f7bd2924687.flv
 TVB明珠台,https://4graurmt3gyzd1pbqgehy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/aa2b103eeb78e388462d48ca2a9d153b.flv
-TVB明珠台,http://106.122.253.128/hdl0901.plures.net/onlive/b01b4a9ab3fbe589a841e1a33534a85a.flv
-ViuTV,http://183.60.151.58/hdl0901.plures.net/onlive/bae396d035d47d5ee3d64c1ef051f0de.flv
+ViuTV,https://4graurmt3gyzd1pbqge5y.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/0522e0b5cf31ed8fcc44e5cb2024735f.flv
 TVB J2台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/30f8ddf777affabdeae65792cc9ec2a0.flv
-TVB J2台,http://117.27.243.69/hdl0901.plures.net/onlive/083c979fd36c7b3656b338b6359f2be9.flv
-NOW新聞台,http://107.148.240.185:13164/play.m3u8?token=i1u6JopU98y%2FRScQgdUX1qJE&tid=gt&id=16
-TVB星河,http://107.148.240.185:13164/play.m3u8?token=lE7MNnLoHEISFFcCAbgvCOtg&tid=gt&id=17
-香港有線電影台,http://107.148.240.185:13164/play.m3u8?token=cUmggocmhcEMCjVnRvhdWitv&tid=gt&id=30
+NOW新聞台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/c2ea5ec663d5f14b9e969f9ba262dde9.flv
 鳳凰衛視中文,http://107.148.240.185:13164/play.m3u8?token=SaRxkyOjdvESQwcan8RHh4fg&tid=gt&id=2
 鳳凰衛視中文,http://qlive.fengshows.cn/live720p/PCC.flv
 鳳凰衛視中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
