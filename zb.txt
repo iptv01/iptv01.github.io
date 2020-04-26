@@ -7,11 +7,9 @@ ViuTV,https://4graurmt3gyzd1pbqge5y.ourdvsss.com/pl0.live.huajiao.com/live_huaji
 TVB J2台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/30f8ddf777affabdeae65792cc9ec2a0.flv
 NOW新聞台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/c2ea5ec663d5f14b9e969f9ba262dde9.flv
 香港有線電影台,http://113.59.38.218/hdl0901.plures.net/onlive/bee053f8ccae1e702df07433c8da599f.flv
-鳳凰衛視中文,http://107.148.240.185:13164/play.m3u8?token=SaRxkyOjdvESQwcan8RHh4fg&tid=gt&id=2
 鳳凰衛視中文,http://qlive.fengshows.cn/live720p/PCC.flv
 鳳凰衛視中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 鳳凰衛視中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-鳳凰衛視資訊,http://107.148.240.185:13164/play.m3u8?token=wYQiUsG%2F5fZNLZ%2FUnkbzbYFc&tid=gt&id=3
 鳳凰衛視資訊,http://qlive.fengshows.cn/live720p/PIN.flv
 鳳凰衛視資訊,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 鳳凰衛視資訊,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
