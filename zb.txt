@@ -1,17 +1,10 @@
 香港频道,#genre#
-TVB翡翠台,http://175.43.120.26/hdl0901.plures.net/onlive/5495a4c573307cdad806dd35a3765832.flv
 TVB翡翠台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/b39dd1020d25be6ffe62a49eb2ee3426.flv
-TVB無線新聞台,http://112.90.94.26/pl0.live.huajiao.com/live_huajiao_v2/ae58572575d6dc078071445772e44f7e.flv
 TVB無線新聞台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/de15f91e640cef55aba804dc87ea7f1e.flv
-香港有線新聞台,http://113.59.38.19/hdl0901.plures.net/onlive/04a5792ed8eba7d5b3b85805c566ffe2.flv
 香港有線新聞台,https://3graugmti8rzdgqbqgeauo.ourdvsss.com/hdl0901.plures.net/onlive/9819995f2ea0526817891f7bd2924687.flv
-TVB明珠台,http://113.59.38.19/hdl0901.plures.net/onlive/15a79536a5cac195da800c0ba4cbe868.flv
 TVB明珠台,https://4graurmt3gyzd1pbqgehy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/aa2b103eeb78e388462d48ca2a9d153b.flv
-ViuTV,http://175.43.120.26/hdl0901.plures.net/onlive/8bb4ee7f78256b5eee037059ace23447.flv
 ViuTV,https://4graurmt3gyzd1pbqge5y.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/0522e0b5cf31ed8fcc44e5cb2024735f.flv
-TVB J2台,http://113.59.38.19/hdl0901.plures.net/onlive/b54550c2682eb4254fd37f8d9f5fe17e.flv
 TVB J2台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/30f8ddf777affabdeae65792cc9ec2a0.flv
-NOW新聞台,http://113.59.38.218/hdl0901.plures.net/onlive/fa5adfb6798b90eb6771d9a561cfefaa.flv
 NOW新聞台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/c2ea5ec663d5f14b9e969f9ba262dde9.flv
 香港有線電影台,http://113.59.38.218/hdl0901.plures.net/onlive/bee053f8ccae1e702df07433c8da599f.flv
 鳳凰衛視中文,http://107.148.240.185:13164/play.m3u8?token=SaRxkyOjdvESQwcan8RHh4fg&tid=gt&id=2
