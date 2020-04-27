@@ -1,11 +1,11 @@
 香港频道,#genre#
-TVB翡翠台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/b39dd1020d25be6ffe62a49eb2ee3426.flv
-TVB無線新聞台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/de15f91e640cef55aba804dc87ea7f1e.flv
-香港有線新聞台,https://4graurmt3gyzd1pbqge5o.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/23cb617d8f3be73313badbc585c6146c.flv
-TVB明珠台,https://4graurmt3gyzd1pbqgehy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/aa2b103eeb78e388462d48ca2a9d153b.flv
-ViuTV,https://4graurmt3gyzd1pbqge5y.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/0522e0b5cf31ed8fcc44e5cb2024735f.flv
-TVB J2台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/30f8ddf777affabdeae65792cc9ec2a0.flv
-NOW新聞台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/c2ea5ec663d5f14b9e969f9ba262dde9.flv
+TVB翡翠台,https://1graugmt3gazdnpbofaauocy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/1beb7243d35790ef7d4de413b8d67ae8.flv
+TVB無線新聞台,https://1graugmt3gazdnpbofaauoca.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/fcb17d46598a82ef55a9a7343cd19867.flv
+香港有線新聞台,
+TVB明珠台,https://1graugmt3gazdnpbofaauoca.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/28777915d4c749ded787b2c33f689b48.flv
+ViuTV,https://1graugmt3gazdnpbofaauocy.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/cc8fd1e43db24bb0eefbf0ab3f11a1bb.flv
+TVB J2台,https://1graugmt3gazdnpbofaauoca.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/b71b02237ab76b63b9544f33cf5292d1.flv
+NOW新聞台,https://1graugmt3gazdnpbofaauoca.ourdvsss.com/pl0.live.huajiao.com/live_huajiao_v2/72c17d7089f61dceedb977e74bea01f7.flv
 香港有線電影台,http://113.59.38.218/hdl0901.plures.net/onlive/bee053f8ccae1e702df07433c8da599f.flv
 鳳凰衛視中文,http://qlive.fengshows.cn/live720p/PCC.flv
 鳳凰衛視中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
