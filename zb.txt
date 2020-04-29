@@ -1,6 +1,6 @@
 香港频道,#genre#
 TVB翡翠台,https://pl0.live.huajiao.com/live_huajiao_v2/1beb7243d35790ef7d4de413b8d67ae8.flv
-TVB翡翠台,https://pl0.live.huajiao.com/live_huajiao_v2/1889371f1c1e9b96314757b33139f9d5.flv
+TVB翡翠台,https://pl0.live.huajiao.com/live_huajiao_v2/30e3f22626cd0c14da52e49f675636e0.flv
 TVB無線新聞台,https://pl0.live.huajiao.com/live_huajiao_v2/fcb17d46598a82ef55a9a7343cd19867.flv
 香港有線新聞台,https://pl0.live.huajiao.com/live_huajiao_v2/78e869081905a6c2d7f3852f1ce1ba18.flv
 TVB明珠台,https://pl0.live.huajiao.com/live_huajiao_v2/2f7a85508edbb55147fab700eead6208.flv
