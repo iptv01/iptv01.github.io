@@ -1,12 +1,13 @@
 香港频道,#genre#
-TVB翡翠台,https://pl0.live.huajiao.com/live_huajiao_v2/a2deaf35ab63f0b0d2cf97e129e157d3.flv
+TVB翡翠台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/2917c257f786df831c1eb7e028435e36.flv?wshc_tag=0&wsts_tag=5eacfb23&wsid_tag=1b296feb&wsiphost=ipdbm
 TVB翡翠台,https://pl0.live.huajiao.com/live_huajiao_v2/54994796b6c07faf3c16aa111f5f9cba.flv
-TVB無線新聞台,https://pl0.live.huajiao.com/live_huajiao_v2/8f1a5a8c4ff61619dbafb79f2b47a7a8.flv
-香港有線新聞台,https://pl0.live.huajiao.com/live_huajiao_v2/79e15d0694fd62910b03fbd115beb035.flv
-TVB明珠台,https://pl0.live.huajiao.com/live_huajiao_v2/fd57145f757183792850d205b407129d.flv
-ViuTV,https://pl0.live.huajiao.com/live_huajiao_v2/cc8fd1e43db24bb0eefbf0ab3f11a1bb.flv
-TVB J2台,https://pl0.live.huajiao.com/live_huajiao_v2/19a7ce83e875bd93400ce6cdbaa2ad29.flv
-NOW新聞台,https://pl0.live.huajiao.com/live_huajiao_v2/daa34a897a4861de298a5cf17b2b4ce5.flv
+TVB無線新聞台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/9835d29b84c1416f33ee4e3ff189b818.flv?wshc_tag=0&wsts_tag=5eacfb07&wsid_tag=1b296feb&wsiphost=ipdbm
+香港有線新台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/62e8d1cda3c880049d04169ad64fc276.flv?wshc_tag=0&wsts_tag=5eacfae9&wsid_tag=1b296feb&wsiphost=ipdbm
+TVB明珠台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/59bffdced94a82d3bedb157a16ac78f9.flv?wshc_tag=0&wsts_tag=5eacfb79&wsid_tag=1b296feb&wsiphost=ipdbm
+ViuTV,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/2b055fe91728ddd3d91faf362bc48653.flv?wshc_tag=0&wsts_tag=5eacfac9&wsid_tag=1b296feb&wsiphost=ipdbm
+TVB J2台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/dfb7b6a6b9e20950fa28de2f8ca599fe.flv?wshc_tag=0&wsts_tag=5eacfb5b&wsid_tag=1b296feb&wsiphost=ipdbm
+NOW新聞台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/c0c4944d54041f95564ca77a04e9a901.flv?wshc_tag=0&wsts_tag=5eacfba5&wsid_tag=1b296feb&wsiphost=ipdbm
+星河频道,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/59b6bc65a2a2ea1d6c64b74f9a7be86a.flv?wshc_tag=0&wsts_tag=5eacfbc8&wsid_tag=1b296feb&wsiphost=ipdbm
 香港有線電影台,https://pl0.live.huajiao.com/live_huajiao_v2/592e728f33908ff915cf39a68dbe15b3.flv
 鳳凰衛視中文,http://qlive.fengshows.cn/live720p/PCC.flv
 鳳凰衛視中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
