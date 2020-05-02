@@ -1,6 +1,5 @@
 香港频道,#genre#
 TVB翡翠台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/2917c257f786df831c1eb7e028435e36.flv?wshc_tag=0&wsts_tag=5eacfb23&wsid_tag=1b296feb&wsiphost=ipdbm
-TVB翡翠台,https://pl0.live.huajiao.com/live_huajiao_v2/54994796b6c07faf3c16aa111f5f9cba.flv
 TVB無線新聞台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/9835d29b84c1416f33ee4e3ff189b818.flv?wshc_tag=0&wsts_tag=5eacfb07&wsid_tag=1b296feb&wsiphost=ipdbm
 香港有線新台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/62e8d1cda3c880049d04169ad64fc276.flv?wshc_tag=0&wsts_tag=5eacfae9&wsid_tag=1b296feb&wsiphost=ipdbm
 TVB明珠台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com:443/pl0.live.huajiao.com/live_huajiao_v2/59bffdced94a82d3bedb157a16ac78f9.flv?wshc_tag=0&wsts_tag=5eacfb79&wsid_tag=1b296feb&wsiphost=ipdbm
