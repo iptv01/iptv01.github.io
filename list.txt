@@ -4,6 +4,7 @@
 翡翠台,P2p://190.2.146.92:18912/5d650464000c0498190abedbff701e01.ts
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
+翡翠台,http://pdlive.kksmg.com:80/live/88jade-88.flv
 TVBHD,P2p://190.2.146.92:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts
 無綫新聞台-1,P2p://190.2.146.92:18912/5b1409fc000a355e25bb8c90ac1c395b.ts 
 無綫新聞台-2,P2p://190.2.146.92:18912/5b140953000cd4a817961c7ae76199ad.ts
