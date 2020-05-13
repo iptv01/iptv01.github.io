@@ -20,7 +20,6 @@ J5,P2p://190.2.146.92:18912/5b14095400047cf54f773f405bd4ccb2.ts
 明珠台,http://prdsecurelive.ainemo.com/live/2020225mzt.flv
 無綫財經資訊台,P2p://190.2.146.92:18912/5dbeb1cc0007501633bb7bbe835141e5.ts
 無綫財經資訊台,http://ldtv.5ay.xyz/daili/tvb.php?id=j5_ch85?is_hd
-無綫財經資訊台,http://m.iptv345.com/?act=play&token=67ee94e49a7e8d12f6b3d1987f09ff72&tid=gt&id=10
 有線新聞台,P2p://190.2.146.92:18912/5b13f6f100047cde0d55a9a7e9706670.ts
 有線新聞台,P2p://3114910866:9906/5cb05bfa0004baf417a82ed0351d3696.ts
 有線新聞台,P2p://185.169.196.146:9906/5cb05bfa0004baf417a82ed0351d3696.ts
@@ -37,7 +36,6 @@ RTHK32,P2p://190.2.146.92:18912/5badd3910003a73dbb871ef20d4d6b9c.ts
 TVB星河,P2p://190.2.146.92e:18912/5d65048c0003e9aed78b2a8c508cf169.ts 
 TVB星河,P2p://190.2.146.92:18912/5b14092a000dc921eeffde1f60805219.ts
 TVB星河,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=76&ip=1
-TVB星河,http://m.iptv345.com/?act=play&token=b498b07f38ed720884f8579c2500b91d&tid=gt&id=17
 TVB HD,P2p://190.2.146.92:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts 
 TVB US 1,P2p://190.2.146.92:18912/5cffd79b000822469dda419c634e075e.ts 
 TVB US 2,P2p://190.2.146.92:18912/5cffd79d0004cbb6bd1be5c9b948f3a1.ts 
