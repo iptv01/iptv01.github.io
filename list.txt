@@ -7,6 +7,44 @@ j2台,https://p2.live.126.net:443/live/7b798bb1d43a35887acbfc8cf8840db2.flv
 NOW新闻台,https://p2.live.126.net:443/live/36cb9dcf78dd079b9887632fae579410.flv
 凤凰中文,http://hlive.fengshows.cn:80/live/pcc_720p.flv?txSecret=e944236637cecd1f2679f001e044a11a&txTime=5ec11169
 凤凰资讯,http://hlive.fengshows.cn:80/live/pin_720p.flv?txSecret=11d2cf040dc426ab44c310d7aaeb6a41&txTime=5ec1118c
+2-翡翠,mitv://fccsovh.pvbox.live:18912/5b1409fc00088a7f0ad3cf908ad7674c.ts
+1-翡翠,mitv://fccsovh.pvbox.live:18912/5d1220350000ba276d06e415ecc95430.ts
+2-无线新闻,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e.ts
+1-无线新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
+2-J2,mitv://fccsovh.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8.ts
+1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7.ts
+J5,mitv://fccsovh.pvbox.live:18912/5b14095400047cf5cb4a1a2fc32ef16f.ts
+明珠,mitv://fccsovh.pvbox.live:18912/5b1409540009bb8b29456f12074644a7.ts
+0,mitv://fccsovh.pvbox.live:18912/香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8.ts
+无线功夫台,mitv://fccsovh.pvbox.live:18912/5b140a16000032128ed0bdb3b870006c.ts
+HKC新闻,mitv://fccsovh.pvbox.live:18912/5b13f6f100047cdeaf5cf3e29388f23b.ts
+私人影院,mitv://fccsovh.pvbox.live:18912/5b140a98000c5ae61cd80aeb949660e7.ts
+TVB星河频道,mitv://fccsovh.pvbox.live:18912/5b14092a000dc9212bfd9b8e84c9886b.ts
+VIUTV6,mitv://fccsovh.pvbox.live:18912/5b1409fd00079683e40ddeabc387bebe.ts
+VIU,mitv://fccsovh.pvbox.live:18912/5b1409540006651984a9ca91efafbed5.ts
+星空卫视,mitv://fccsovh.pvbox.live:18912/5b1409fb0000e9853e66503a9f124d00.ts
+凤凰中文台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b000759565209f8fdd58bd269.ts
+凤凰资讯台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b000904834de9551294fee4e1.ts
+凤凰香港台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b000ab05812b50cd8d248917c.ts
+海峡卫视,mitv://fccsovh.pvbox.live:18912/5b140a99000c97f592941831b66645b3.ts
+莲花卫视,mitv://fccsovh.pvbox.live:18912/5b1409fb00088a46099eb4d2848ebd63.ts
+WBTV,mitv://fccsovh.pvbox.live:18912/5b140a1600043fc9c64c87d6794573e2.ts
+CHINA MOVIE,mitv://fccsovh.pvbox.live:18912/5b14095e00097ea8e196434877d47f44.ts
+中华美食频道,mitv://fccsovh.pvbox.live:18912/5b14092b000126612897cc5f75157a2a.ts
+NOWTV,mitv://fccsovh.pvbox.live:18912/5b20e3ae00008df9cb61dda6161ad58f.ts
+RTHK31,mitv://fccsovh.pvbox.live:18912/5badd38d000891c439974cfa21f26282.ts
+RTHK32,mitv://fccsovh.pvbox.live:18912/5badd3910003a73d9e541f569e7149a1.ts
+TVB US 1,mitv://fccsovh.pvbox.live:18912/5cffd79b00082246a64b8746c2521a1f.ts
+Bein Sports,mitv://fccsovh.pvbox.live:18912/5cf559ed000079fba6ff7f47ae9ba96e.ts
+WWE,mitv://fccsovh.pvbox.live:18912/5cffd5d900072496efdc39a7bcd51dfa.ts
+TVB US 2,mitv://fccsovh.pvbox.live:18912/5cffd79d0004cbb6bb0b95b10bf749b1.ts
+TVBHD,mitv://fccsovh.pvbox.live:18912/5cf559f800003d1b29bd5d7246a98e48.ts
+TV1,mitv://fccsovh.pvbox.live:18912/5e64abfc0000ee891e4c9e1fa60ce1d1.ts
+TV2,mitv://fccsovh.pvbox.live:18912/5e64abfd000af2199820bfbfd53d43c2.ts
+TV3,mitv://fccsovh.pvbox.live:18912/5bdfc29f00057bd184e0c57422257914.ts
+ntv7,mitv://fccsovh.pvbox.live:18912/5bdfc2a300070c4dea73c8babacf229b.ts
+TV8,mitv://fccsovh.pvbox.live:18912/5bdfc2a700006e98166cea0ca1ecfd17.ts
+TV9,mitv://fccsovh.pvbox.live:18912/5bdfc2aa000be3f878b9ba83e2bd544b.ts
 央视频道,#genre#
 CCTV-1,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
