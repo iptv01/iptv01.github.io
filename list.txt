@@ -1,25 +1,27 @@
 港台频道,#genre#
-1-翡翠,mitv://fccseuro.pvbox.live:18912/5d1220350000ba276d06e415ecc95430
-2-翡翠,mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7f0ad3cf908ad7674c
-1-无线新闻,mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344
-2-无线新闻,mitv://fccseuro.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e
-1-J2,mitv://fccseuro.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7
-2-J2,mitv://fccseuro.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8
 J1,p9p://51.255.74.85:19906/59511aef000399c258ca1ad46ebf36ad&link=盗链死全家
-J5,mitv://fccseuro.pvbox.live:18912/5b14095400047cf5cb4a1a2fc32ef16f
-明珠,mitv://fccseuro.pvbox.live:18912/5b1409540009bb8b29456f12074644a7
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-无线财经,mitv://fccseuro.pvbox.live:18912/5dbeb1cc00075016f1eed12e975ee5a1
-HKC新闻,mitv://fccseuro.pvbox.live:18912/5b13f6f100047cdeaf5cf3e29388f23b
-有线体育,mitv://fccseuro.pvbox.live:18912/5cb870de000968d06aa5ced61e53a5f4
-HKC电影一台,mitv://fccseuro.pvbox.live:18912/5b140a1600025764ed1d08a9c7b1da56
-財經資訊,mitv://fccseuro.pvbox.live:18912/5cb870e2000e6af31f682a9927574182
-HKC603,mitv://fccseuro.pvbox.live:18912/5cb870e80007bd8533508aa77329b6b7
-香港開電視,mitv://fccseuro.pvbox.live:18912/5b140a990002d1a8485f8f02655e4dec
-私人影院,mitv://fccseuro.pvbox.live:18912/5b140a98000c5ae61cd80aeb949660e7
-TVB星河,mitv://fccseuro.pvbox.live:18912/5d65048c0003e9ae5d781cd6153e3db4
-VIUTV6,mitv://fccseuro.pvbox.live:18912/5b1409fd00079683e40ddeabc387bebe
-VIU,mitv://fccseuro.pvbox.live:18912/5b1409540006651984a9ca91efafbed5
+翡翠台,mitv://fccsovh.pvbox.live:18912/5d1220350000ba276d06e415ecc95430.ts
+翡翠台,mitv://fccsovh.pvbox.live:18912/5b1409fc00088a7f0ad3cf908ad7674c.ts
+無綫新聞台,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
+無綫新聞台,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e.ts
+J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7.ts
+J2,mitv://fccsovh.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8.ts
+J5,mitv://fccsovh.pvbox.live:18912/5b14095400047cf5cb4a1a2fc32ef16f.ts
+明珠台,mitv://fccsovh.pvbox.live:18912/5b1409540009bb8b29456f12074644a7.ts
+無綫新聞台,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
+無綫財經資訊台,mitv://190.2.146.92:18912/5dbeb1cc0007501633bb7bbe835141e5.ts
+無綫功夫台,mitv://fccsovh.pvbox.live:18912/5b140a16000032128ed0bdb3b870006c.ts
+有線新聞台,mitv://fccsovh.pvbox.live:18912/5b13f6f100047cdeaf5cf3e29388f23b.ts
+now新聞台,mitv://fccsovh.pvbox.live:18912/5b20e3ae00008df9cb61dda6161ad58f.ts
+私人影院,mitv://fccsovh.pvbox.live:18912/5b140a98000c5ae61cd80aeb949660e7.ts
+RTHK31,mitv://fccsovh.pvbox.live:18912/5badd38d000891c439974cfa21f26282.ts
+RTHK32,mitv://fccsovh.pvbox.live:18912/5badd3910003a73d9e541f569e7149a1.ts
+TVB星河,mitv://fccsovh.pvbox.live:18912/5b14092a000dc9212bfd9b8e84c9886b.ts
+TVB HD,mitv://fccsovh.pvbox.live:18912/5cf559f800003d1b29bd5d7246a98e48.ts
+TVB US 1,mitv://fccsovh.pvbox.live:18912/5cffd79b00082246a64b8746c2521a1f.ts
+TVB US 2,mitv://fccsovh.pvbox.live:18912/5cffd79d0004cbb6bb0b95b10bf749b1.ts
+VIU TV 6,mitv://fccsovh.pvbox.live:18912/5b1409fd00079683e40ddeabc387bebe.ts
+VIU TV,mitv://fccsovh.pvbox.live:18912/5b1409540006651984a9ca91efafbed5.ts
 星空卫视,mitv://fccseuro.pvbox.live:18912/5b1409fb0000e9853e66503a9f124d00
 凤凰中文台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b000759565209f8fdd58bd269
 凤凰资讯台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b000904834de9551294fee4e1
