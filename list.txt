@@ -3,11 +3,11 @@
 1-翡翠,mitv://fccsovh.pvbox.live:18912/5d1220350000ba276d06e415ecc95430.ts
 2-无线新闻,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e.ts
 1-无线新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
+J1,p9p://51.255.74.85:19906/59511aef000399c258ca1ad46ebf36ad&link=盗链死全家
 2-J2,mitv://fccsovh.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8.ts
 1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7.ts
 J5,mitv://fccsovh.pvbox.live:18912/5b14095400047cf5cb4a1a2fc32ef16f.ts
 明珠,mitv://fccsovh.pvbox.live:18912/5b1409540009bb8b29456f12074644a7.ts
-0,mitv://fccsovh.pvbox.live:18912/香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8.ts
 无线功夫台,mitv://fccsovh.pvbox.live:18912/5b140a16000032128ed0bdb3b870006c.ts
 HKC新闻,mitv://fccsovh.pvbox.live:18912/5b13f6f100047cdeaf5cf3e29388f23b.ts
 私人影院,mitv://fccsovh.pvbox.live:18912/5b140a98000c5ae61cd80aeb949660e7.ts
