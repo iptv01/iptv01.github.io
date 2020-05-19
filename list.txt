@@ -4,8 +4,8 @@
 1-无线新闻,mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344
 2-无线新闻,mitv://fccseuro.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e
 1-J2,mitv://fccseuro.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7
-J1,mitv://51.255.74.85:19906/59511aef000399c258ca1ad46ebf36ad&link=盗链死全家
 2-J2,mitv://fccseuro.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8
+J1,p9p://51.255.74.85:19906/59511aef000399c258ca1ad46ebf36ad&link=盗链死全家
 J5,mitv://fccseuro.pvbox.live:18912/5b14095400047cf5cb4a1a2fc32ef16f
 明珠,mitv://fccseuro.pvbox.live:18912/5b1409540009bb8b29456f12074644a7
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -36,6 +36,41 @@ WWE,mitv://fccseuro.pvbox.live:18912/5cffd5d900072496efdc39a7bcd51dfa
 TVB US 1,mitv://fccseuro.pvbox.live:18912/5cffd79b00082246a64b8746c2521a1f
 TVB US 2,mitv://fccseuro.pvbox.live:18912/5cffd79d0004cbb6bb0b95b10bf749b1
 TVBHD,mitv://fccseuro.pvbox.live:18912/5cf559f800003d1b29bd5d7246a98e48
+TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982b5b710a4a47285a05.ts
+TVBS新闻,mitv://fccsovh.pvbox.live:18912/5b1409600008c73b1a05b1b720582889.ts
+三立新闻,mitv://fccsovh.pvbox.live:18912/5b14090b000e80304a8159b6edeb7918.ts
+东森新闻,mitv://fccsovh.pvbox.live:18912/5b1409520005add46d722dfcbe65cb4c.ts
+中天新闻,mitv://fccsovh.pvbox.live:18912/5b14096a000dc917ee549a939989ba74.ts
+中视新闻台,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
+互动新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
+台视新闻台,mitv://fccsovh.pvbox.live:18912/5b14090b0004b9da89f966912173fcd7.ts
+寰宇新闻频道,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec9974397fac9826c6.ts
+年代新闻,mitv://fccsovh.pvbox.live:18912/5b1409fd000a72697545d72c1f2c4259.ts
+东森财经,mitv://fccsovh.pvbox.live:18912/5b1409f30008c77648330d0f3bcafb40.ts
+非凡新闻,mitv://fccsovh.pvbox.live:18912/5b14092c0001a04c99a9499df71f0144.ts
+FOX新闻,mitv://fccsovh.pvbox.live:18912/5b25fce60007c58e8a3004851ccfd365.ts
+CCTV-6 电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00006f933e556583b05e64a7.ts
+好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df5d7f30cc0dece6e10.ts
+星卫电影,mitv://fccsovh.pvbox.live:18912/5b140940000a727a4bf348563757ba5e.ts
+东森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad110891195d64ed033.ts
+东森电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe2093057ab145b8e3a.ts
+伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b0b9580e3bdf43bee.ts
+美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00079615ef29fa6cfc5aeef4.ts
+卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f078a22c7ce77702f62.ts
+卫视合家欢,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd4144e6e78fea0ece01.ts
+卫视西片 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea469bc01b62cbf906b.ts
+卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc4d039eb55318236d.ts
+龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b8813faf07fc126ab.ts
+CCTV-14 少儿HD,mitv://fccsovh.pvbox.live:18912/5b14094800075950adced248c8e498aa.ts
+CN 卡通,mitv://fccsovh.pvbox.live:18912/5b140917000efaac3f9179764897d979.ts
+DISNEY어린이,mitv://fccsovh.pvbox.live:18912/5b140a0c0002578a0465b20f11e13e7c.ts
+MOMO亲子台,mitv://fccsovh.pvbox.live:18912/5b1409690009f8b0345845012ab14627.ts
+东森呦呦,mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28607fbf8de0b89c23.ts
+纬来育乐,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b54e279caa339aad.ts
+靖天卡通台,mitv://fccsovh.pvbox.live:18912/5b14093e0009fa219c53a5561cd5c9e3.ts
+靖天育乐台,mitv://fccsovh.pvbox.live:18912/5b1408f2000e063fea9c5d9f8b021408.ts
+龙华动画 HD,mitv://fccsovh.pvbox.live:18912/5b1409170002d1e2b53006943dc22570.ts
+BABY TV 国语,mitv://fccsovh.pvbox.live:18912/5b14090b00030e8237826214f982f6eb.ts
 日韩频道,#genre#
 テレビ朝日,mitv://fccsovh.pvbox.live:18912/5c4aa977000a3ef31fe5de813a809e35.ts
 ABCテレビ,mitv://fccsovh.pvbox.live:18912/5b140a560004f79054f306f920b6a6e0.ts
@@ -553,41 +588,6 @@ CLARO SPORTS,mitv://fccsovh.pvbox.live:18912/5bee52d2000e6fc519db0dbb7ac86c66.ts
 Space,mitv://fccsovh.pvbox.live:18912/5cffd7a8000e552429c6b62101c45bdb.ts
 CCTV13,mitv://fccsovh.pvbox.live:18912/5b1409f30006df250086e2a32888956d.ts
 BBC LIFESTYLE HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bd9335b9c23fb84074.ts
-TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982b5b710a4a47285a05.ts
-TVBS新闻,mitv://fccsovh.pvbox.live:18912/5b1409600008c73b1a05b1b720582889.ts
-三立新闻,mitv://fccsovh.pvbox.live:18912/5b14090b000e80304a8159b6edeb7918.ts
-东森新闻,mitv://fccsovh.pvbox.live:18912/5b1409520005add46d722dfcbe65cb4c.ts
-中天新闻,mitv://fccsovh.pvbox.live:18912/5b14096a000dc917ee549a939989ba74.ts
-中视新闻台,mitv://fccsovh.pvbox.live:18912/5b14095e000f37747ca78ffd7e762bdf.ts
-互动新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
-台视新闻台,mitv://fccsovh.pvbox.live:18912/5b14090b0004b9da89f966912173fcd7.ts
-寰宇新闻频道,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec9974397fac9826c6.ts
-年代新闻,mitv://fccsovh.pvbox.live:18912/5b1409fd000a72697545d72c1f2c4259.ts
-东森财经,mitv://fccsovh.pvbox.live:18912/5b1409f30008c77648330d0f3bcafb40.ts
-非凡新闻,mitv://fccsovh.pvbox.live:18912/5b14092c0001a04c99a9499df71f0144.ts
-FOX新闻,mitv://fccsovh.pvbox.live:18912/5b25fce60007c58e8a3004851ccfd365.ts
-CCTV-6 电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00006f933e556583b05e64a7.ts
-好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df5d7f30cc0dece6e10.ts
-星卫电影,mitv://fccsovh.pvbox.live:18912/5b140940000a727a4bf348563757ba5e.ts
-东森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad110891195d64ed033.ts
-东森电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe2093057ab145b8e3a.ts
-伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b0b9580e3bdf43bee.ts
-美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00079615ef29fa6cfc5aeef4.ts
-卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f078a22c7ce77702f62.ts
-卫视合家欢,mitv://fccsovh.pvbox.live:18912/5b14096a0001dd4144e6e78fea0ece01.ts
-卫视西片 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea469bc01b62cbf906b.ts
-卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc4d039eb55318236d.ts
-龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b8813faf07fc126ab.ts
-CCTV-14 少儿HD,mitv://fccsovh.pvbox.live:18912/5b14094800075950adced248c8e498aa.ts
-CN 卡通,mitv://fccsovh.pvbox.live:18912/5b140917000efaac3f9179764897d979.ts
-DISNEY어린이,mitv://fccsovh.pvbox.live:18912/5b140a0c0002578a0465b20f11e13e7c.ts
-MOMO亲子台,mitv://fccsovh.pvbox.live:18912/5b1409690009f8b0345845012ab14627.ts
-东森呦呦,mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28607fbf8de0b89c23.ts
-纬来育乐,mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b54e279caa339aad.ts
-靖天卡通台,mitv://fccsovh.pvbox.live:18912/5b14093e0009fa219c53a5561cd5c9e3.ts
-靖天育乐台,mitv://fccsovh.pvbox.live:18912/5b1408f2000e063fea9c5d9f8b021408.ts
-龙华动画 HD,mitv://fccsovh.pvbox.live:18912/5b1409170002d1e2b53006943dc22570.ts
-BABY TV 国语,mitv://fccsovh.pvbox.live:18912/5b14090b00030e8237826214f982f6eb.ts
 ANIMAX,mitv://fccsovh.pvbox.live:18912/5b14095f000b75eb3accc024241e3a59.ts
 DISNEY-JR(backup),mitv://fccsovh.pvbox.live:18912/5b593af10003ba9238d8ceea0f036484.ts
 Disney XD,mitv://fccsovh.pvbox.live:18912/5cffd5e200012f5b1b91bd65ca3d8c52.ts
@@ -647,6 +647,20 @@ BTV北京卫视 HD,mitv://fccsovh.pvbox.live:18912/5b14090b000c97dd784797fa5d067
 广东新闻,mitv://fccsovh.pvbox.live:18912/5b1409fd0004b9b72c524e3993f419e9.ts
 Z频道,mitv://fccsovh.pvbox.live:18912/5b14094a00088a564e0f461ddf2dae00.ts
 央视频道,#genre#
+CCTV-1,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
+CCTV-2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
+CCTV-3,http://211.137.115.110:8080/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
+CCTV-4,http://211.137.115.110:8080/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
+CCTV-5,http://211.137.115.110:8080/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
+CCTV-5+,http://211.137.115.110:8080/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+CCTV-6,http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
+CCTV-7,http://211.137.115.110:8080/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
+CCTV-8,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
+CCTV-9,http://211.137.115.110:8080/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
+CCTV-10,http://211.137.115.110:8080/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
+CCTV-12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
+CCTV-14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
+CCTV-17,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 CCTV-1,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-1,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
@@ -663,10 +677,7 @@ CCTV-5+,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-5+,http://39.135.34.150:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 CCTV-6,http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
 CCTV-6,http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-CCTV-6,http://www.itvi.vip/cctv.php?id=2000203302
 CCTV-6,http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=1106497909461115566&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRPL4aTeGJNlZwIkZROfGAKEC3iG4uOUkYNIdPRliCqBi8AjSQtKTBHB8b3LPXJcIA
-CCTV-7,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-CCTV-7,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV-7,http://39.135.34.150:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7050628689018054317&owchid=ystenlive&owsid=1106497909461123525&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5v8WYfJSLSoSDQSshIAsx77pE15UEXEdMCmKIrL5%2f3xV22iBl6KMm%2bLcZrmbA5H1KmAD8EY%2bWAeRUs2LJ9Vxxk
 CCTV-8,http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000003736&owchid=ystenlive&owsid=1106497909461132718&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRKhIjYL3aRNrIf2qoTcK90Bd0oe1gvWxxvd9Qs9pkD5eKCeYPeHs2GppHtnd1klhd
 CCTV-9,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
@@ -683,7 +694,6 @@ CCTV-14,http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
 CCTV-15,http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 CCTV-16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-纯享4K频道,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 CCTV-1,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?I
 CCTV-2,http://39.135.34.150:8080/000000001000/1000000001000012442/1.m3u8?I
 CCTV-3,http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?I
@@ -698,9 +708,10 @@ CCTV-10,http://39.135.34.150:8080/000000001000/7019587760656900133/1.m3u8?I
 CCTV-11,http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?I
 CCTV-12,http://39.135.34.150:8080/000000001000/5325631075193490169/1.m3u8?I
 CCTV-13,http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?I
-CCTV-14少儿,http://39.135.34.150:8080/000000001000/8203666801302077036/1.m3u8?I
-CCTV-15音乐,http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?I
-CCTV-17,http://39.135.34.140:8080/000000001000/1000000005000056836/1.m3u8?I
+CCTV-14,http://39.135.34.150:8080/000000001000/8203666801302077036/1.m3u8?I
+CCTV-15,http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?I
+CCTV-17,http://39.135.34.140:8080/000000001000/1000000005000056836/1.m3u8?I 
+纯享4K频道,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 卫视频道,#genre#
 河北卫视,http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
 东方卫视,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
