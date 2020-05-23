@@ -1,4 +1,15 @@
 港台频道,#genre#
+1-翡翠,mitv://fccseuro.pvbox.live:18912/5d1220350000ba2772d2c8c07bb3c752
+2-翡翠,mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7fa3e18cc2249c55ce
+1-无线新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e5982c2e799457264
+2-无线新闻,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8a7a87806e46262a3
+2-J2,mitv://fccseuro.pvbox.live:18912/5d122036000a066159b828455cb24b90
+1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca065de8da3b014a39c8
+J5,mitv://fccseuro.pvbox.live:18912/5b14095400047cf5549ed1d4a3e3f096
+明珠,mitv://fccsovh.pvbox.live:18912/5b1409540009bb8bbe600c58aed3eee3
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+无线财经,mitv://fccseuro.pvbox.live:18912/5dbeb1cc000750161b0f2c3065a1f6e8
+HKC新闻,mitv://fccseuro.pvbox.live:18912/5b13f6f100047cdee327a9ff9f053ad4
 TVB翡翠,http://ltv1.228888888.xyz:8081/hls/ch101.m3u8
 J2,http://ltv1.228888888.xyz:8081/hls/ch102.m3u8
 无线财经,http://ltv1.228888888.xyz:8081/hls/ch103.m3u8
@@ -17,6 +28,13 @@ VIUTV6,http://ltv1.228888888.xyz:8081/hls/ch116.m3u8
 有线财经,http://ltv1.228888888.xyz:8081/hls/ch117.m3u8
 有线娱乐,http://ltv1.228888888.xyz:8081/hls/ch118.m3u8
 有线18,http://ltv1.228888888.xyz:8081/hls/ch119.m3u8
+ELTA影劇,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca500589b0ec5bdcf2
+ELTA綜合,mitv://fccsovh.pvbox.live:18912/5b1409db0002d1cf80d25815918f7f10
+EYETV旅遊,mitv://fccseuro.pvbox.live:18912/5b140916000c981839dd793bdba928d3
+中天亞洲,mitv://fccsovh.pvbox.live:18912/5b1409220008c84f16bd533afaab3d08
+CNN,mitv://fccsovh.pvbox.live:18912/5b140954000dc92ac680ca5645a99703
+民視,mitv://fccsovh.pvbox.live:18912/5b1409690006a24ae1af8bc505b75f7d
+台视 HD,mitv://fccseuro.pvbox.live:18912/5b14095f000570be86e065cf75ee24a6
 龙翔电影,http://ltv1.228888888.xyz:8081/hls/ch301.m3u8
 纬来电影,http://ltv1.228888888.xyz:8081/hls/ch302.m3u8
 东森洋片,http://ltv1.228888888.xyz:8081/hls/ch303.m3u8
