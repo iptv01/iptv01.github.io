@@ -114,7 +114,6 @@ CNN,http://ltv1.228888888.xyz:8081/hls/ch315.m3u8
 八大第一,http://ltv1.228888888.xyz:8081/hls/ch207.m3u8
 八大戏剧,http://ltv1.228888888.xyz:8081/hls/ch208.m3u8
 HBOfamlly,http://ltv1.228888888.xyz:8081/hls/ch313.m3u8TVB翡翠,http://fm.lealy.top/dl/lctv.php?id=ch101
-
 央视频道,#genre#
 CCTV-1,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
 CCTV-2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
