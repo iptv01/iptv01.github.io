@@ -1,79 +1,31 @@
 港台频道,#genre#
-TVB翡翠台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=78&ip=1
-TVB J2,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=74&ip=1
-TVB明珠台,http://prdsecurelive.ainemo.com/live/2020225mzt.flv
-无线新闻台,http://ldtv.5ay.xyz/daili/tvb.php?id=inews?is_hd
-无线财经台,http://ldtv.5ay.xyz/daili/tvb.php?id=j5_ch85?is_hd
-有线18台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=59&ip=1
-有线电影台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=61&ip=1
-无线新闻台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=73&ip=1
-TVB星河台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=76&ip=1
-TVB明珠台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=77&ip=1
-TVB功夫台,http://dlhdl-cdn.zhanqi.tv/zqlive/291236_97IGR.flv
-TVB警匪台,http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-凤凰资讯台,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰中文台,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
-澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-澳门有线一台,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
-澳门有线三台,http://202.175.127.77/live/show/ch3/index.m3u8
-澳门莲花,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
-澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-CH1-sd,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-NOW新闻,http://teslagram.com/live/channel_332.m3u8
-NOW直播,http://teslagram.com/live/channel_331.m3u8
-RTHK 31,http://198.16.106.58:8278/rhk31_twn/playlist.m3u8?tid=MEAE4537581145375811&ct=18392&tsum=d5b6631971b3789e0232f240032aab1c
-RTHK 32,http://198.16.106.58:8278/rhk32_twn/playlist.m3u8?tid=ME0E6717791467177914&ct=18392&tsum=7e9b3ca62c6e8003eea6901833169238
-TVB新聞台,http://seb.sason.top:80/ptv/tvb.php?id=xw
-VIU 6,http://198.16.106.58:8278/viu6_twn/playlist.m3u8?tid=MD2D3178034831780348&ct=18392&tsum=e648e4c371d48bd837de8c99bc396fb1
-明珠台,http://198.16.106.58:8278/pearl_twn/playlist.m3u8?tid=ME9E4685430546854305&ct=18392&tsum=fad6a63c8942d079c89cce9c6a12a5f3
-Tvb 星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-TVB星河频道,http://198.16.106.58:8278/tvbxinghe_twn/playlist.m3u8?tid=MCDC1795636917956369&ct=18392&tsum=55f1be143c066f591b93d9ad92e8c884
-有線綜合娛樂台,https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
-有線財經資訊台,https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
-港台電視31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-港台電視32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-无线新闻,http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
-无线资讯,http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=MD7D6077097160770971&ct=18392&tsum=c52d6bfaa8625673b95c651d46db93ad
-TVB財經資訊台,http://seb.sason.top:80/ptv/tvb.php?id=cj
-新傳媒8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-TVBS 新闻,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-Thrill,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
-风凰资讯台,http://125.210.152.18:9090/live/FHZX_1200.m3u8
-风凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-凤凰中文,http://198.16.106.58:8278/phoenixtv_hd/playlist.m3u8?tid=MFEF2235818722358187&ct=18392&tsum=66437ebda6ca8352c9fb63c50e2ceb50
-凤凰中文,http://live.centerch.com/fhzw.m3u8
-华语視界日本NHK Japan,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-卫视电影台,http://mscvod01tvbdoinfo.akamaized.net/other/maintenance/F11234567890123456789012345678901.m3u8
-天映频道,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-新唐人亞太台 NTD TV,https://live.ntdimg.com/aplive200/playlist.m3u8
-星空卫视,http://198.16.106.58:8278/xingkong/playlist.m3u8?tid=MFDF3656139336561393&ct=18392&tsum=a2dae0f3333c8085854abfdceeb50823
-澳視葡語,http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8
-澳視衛星 (備),http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
-澳视澳门,http://61.244.22.4/ch1/ch1.live/index.m3u8
-澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
-澳视资讯,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-澳門1台,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-澳門2台,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-澳門3台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳門微电影,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+2-翡翠,mitv://fccsovh.pvbox.live:18912/5b1409fc00088a7ff27c813187a5823d.ts
+1-翡翠,mitv://fccsovh.pvbox.live:18912/5d1220350000ba27ae2b36302b960dc2.ts
+2-无线新闻,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a846222a6a09a2e6f8.ts
+1-无线新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e36af6bcd7373c04f.ts
+2-J2,mitv://fccsovh.pvbox.live:18912/5d122036000a0661219731da6ec3ccfb.ts
+1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca0633dc2d973c0a11ab.ts
+J5,mitv://fccsovh.pvbox.live:18912/5b14095400047cf56ec833a94783cdfa.ts
+明珠,mitv://fccsovh.pvbox.live:18912/5b1409540009bb8b270391bf1db08532.ts
+无线功夫台,mitv://fccsovh.pvbox.live:18912/5b140a16000032128ed0bdb3b870006c.ts
+HKC新闻,mitv://fccsovh.pvbox.live:18912/5b13f6f100047cdec22c1042897679cb.ts
+私人影院,mitv://fccsovh.pvbox.live:18912/5b140a98000c5ae6a7765f86305591ae.ts
+TVB星河频道,mitv://fccsovh.pvbox.live:18912/5b14092a000dc9212bfd9b8e84c9886b.ts
+VIUTV6,mitv://fccsovh.pvbox.live:18912/5b1409fd000796834e058fd74526f83e.ts
+VIU,mitv://fccsovh.pvbox.live:18912/5b140954000665195e419eab4040936d.ts
+星空卫视,mitv://fccsovh.pvbox.live:18912/5b1409fb0000e9855628b9d09bd1ab45.ts
+凤凰中文台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b00075956db1010d465eac09e.ts
+凤凰资讯台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b00090483cd4163274984b1bc.ts
+凤凰香港台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b000ab058d440063db1414e29.ts
+海峡卫视,mitv://fccsovh.pvbox.live:18912/5b140a99000c97f54ccfe01e9c05f6b5.ts
+莲花卫视,mitv://fccsovh.pvbox.live:18912/5b1409fb00088a46faacbaf4f90eab7e.ts
+WBTV,mitv://fccsovh.pvbox.live:18912/5b140a1600043fc94e9ac4628972ac23.ts
+CHINA MOVIE,mitv://fccsovh.pvbox.live:18912/5b14095e00097ea820ff589de46e6021.ts
+中华美食频道,mitv://fccsovh.pvbox.live:18912/5b14092b00012661d4f22eced565a1e9.ts
+NOWTV,mitv://fccsovh.pvbox.live:18912/5b20e3ae00008df9cb61dda6161ad58f.ts
+RTHK31,mitv://fccsovh.pvbox.live:18912/5badd38d000891c417632edc2cf7e8d3.ts
+RTHK32,mitv://fccsovh.pvbox.live:18912/5badd3910003a73d06b5f266cb1a834c.ts
+TVB US 1,mitv://fccsovh.pvbox.live:18912/5cffd79b0008224610e6f226ad0de330.ts
 央视频道,#genre#
 CCTV-1,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
 CCTV-2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
