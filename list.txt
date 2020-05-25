@@ -4,7 +4,7 @@ ViuTV,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl1.live.huajiao.com/live_huaj
 无线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/d92e055ea0d11dd0383270fe08f40ad9.flv
 翡翠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/56987fc757e97de2321c1cebcffb47ec.flv
 明珠台,https://1gr5dgmttgh51hctwgczdqqe.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/04123adff2dde66f777dbcb3c78a2764.flv
-j2,https://1gr5dgmttgh51hctwgczdqqe.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/db3efcf389d38aa5fea59c5d663bc189.flv
+j2,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/6f7a4a6f820b0550574ed5d193c65c4c.flv
 now新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/ba022121162fedec308c2df11a430430.flv
 央视频道,#genre#
 CCTV-1,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
