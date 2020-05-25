@@ -1,7 +1,7 @@
 港台频道,#genre#
 ViuTV,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/002e2e3077c69a4351f9d5088e013573.flv
 有线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/1bcdc3a69dddc70592eb4dac1595825a.flv
-无线新闻台,https://1gr5dgmttgh51hctwgczdqqe.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/642f5c7d2a212c55a823ba8b6578a324.flv
+无线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/d92e055ea0d11dd0383270fe08f40ad9.flv
 翡翠台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/1e37084cf06b0d7be44105aa99b4492c.flv
 明珠台,https://1gr5dgmttgh51hctwgczdqqe.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/04123adff2dde66f777dbcb3c78a2764.flv
 j2,https://1gr5dgmttgh51hctwgczdqqe.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/db3efcf389d38aa5fea59c5d663bc189.flv
