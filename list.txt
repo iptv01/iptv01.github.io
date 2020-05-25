@@ -1,11 +1,11 @@
 港台频道,#genre#
 ViuTV,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/002e2e3077c69a4351f9d5088e013573.flv
-有线新闻台,https://1gr5dgmttgh51hctwgczdocy.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/b46deee805fe9e8b760f20f1646f9ca8.flv
+有线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/1bcdc3a69dddc70592eb4dac1595825a.flv
 无线新闻台,https://1gr5dgmttgh51hctwgczdqqe.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/642f5c7d2a212c55a823ba8b6578a324.flv
 翡翠台,https://3graurmt3gyzdnc3ufa3uo.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/1e37084cf06b0d7be44105aa99b4492c.flv
 明珠台,https://1gr5dgmttgh51hctwgczdqqe.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/04123adff2dde66f777dbcb3c78a2764.flv
 j2,https://1gr5dgmttgh51hctwgczdqqe.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/db3efcf389d38aa5fea59c5d663bc189.flv
-NOW新闻台,https://3graurmt3gyzdnc3ufa4dy.ourdvsss.com/pl1.live.huajiao.com/live_huajiao_h265/2668f7f381b488f5acfed7b04ea855ff.flv
+now新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/ba022121162fedec308c2df11a430430.flv
 央视频道,#genre#
 CCTV-1,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
 CCTV-2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
