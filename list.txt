@@ -14,11 +14,11 @@ HKC新闻,mitv://fccsovh.pvbox.live:18912/5b13f6f100047cdec22c1042897679cb.ts
 TVB星河频道,mitv://fccsovh.pvbox.live:18912/5b14092a000dc9212bfd9b8e84c9886b.ts
 VIUTV6,mitv://fccsovh.pvbox.live:18912/5b1409fd000796834e058fd74526f83e.ts
 VIU,mitv://fccsovh.pvbox.live:18912/5b140954000665195e419eab4040936d.ts
-翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
-翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
+翡翠台,mitv://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台,mitv://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 翡翠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/56987fc757e97de2321c1cebcffb47ec.flv
 无线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/d92e055ea0d11dd0383270fe08f40ad9.flv
-无线新闻台,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
+无线新闻台,mitv://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
 有线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/1bcdc3a69dddc70592eb4dac1595825a.flv
 now新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/ba022121162fedec308c2df11a430430.flv
 TVB J2,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/6f7a4a6f820b0550574ed5d193c65c4c.flv
