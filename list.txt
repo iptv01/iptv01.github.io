@@ -1,4 +1,8 @@
 港台频道,#genre#
+翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
+翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
+翡翠台,sop://p2p.cibn.cc:80/100014$P2P高清
 now新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/ba022121162fedec308c2df11a430430.flv
 TVB J2,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/6f7a4a6f820b0550574ed5d193c65c4c.flv
 明珠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/808ee635c5c0787e76f4010e6788351b.flv
@@ -6,8 +10,8 @@ TVB J2,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/6f7a4a6f820b055057
 无线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/d92e055ea0d11dd0383270fe08f40ad9.flv
 有线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/1bcdc3a69dddc70592eb4dac1595825a.flv
 ViuTV,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/b576564ecb35f2a2ceb9b77359a017ed.flv
-凤凰卫视中文,http://hlive.fengshows.cn:80/live/pcc_720p.flv?txSecret=11af8ab92a99dbabb49dc4fda2df9bb3&txTime=5eccac32
-凤凰卫视资讯,http://hlive.fengshows.cn:80/live/pin_720p.flv?txSecret=75dac9327332fa0c3134dbe7f6bdacc6&txTime=5eccac52
+凤凰卫视中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+凤凰卫视资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 央视频道,#genre#
 CCTV-1,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
 CCTV-2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
