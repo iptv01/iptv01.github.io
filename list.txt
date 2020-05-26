@@ -6,8 +6,8 @@ TVB J2,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/6f7a4a6f820b055057
 无线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/d92e055ea0d11dd0383270fe08f40ad9.flv
 有线新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/1bcdc3a69dddc70592eb4dac1595825a.flv
 ViuTV,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/b576564ecb35f2a2ceb9b77359a017ed.flv
-凤凰卫视中文,http://hlive.fengshows.cn:80/live/pcc_720p.flv?txSecret=0ffa9896ea81858f7b13bee56be450e5&txTime=5ecc10f1
-凤凰卫视资讯,http://hlive.fengshows.cn:80/live/pin_720p.flv?txSecret=1cbd13c1adf75ec1f9a30d7477af606c&txTime=5ecc1136
+凤凰卫视中文,http://hlive.fengshows.cn:80/live/pcc_720p.flv?txSecret=11af8ab92a99dbabb49dc4fda2df9bb3&txTime=5eccac32
+凤凰卫视资讯,http://hlive.fengshows.cn:80/live/pin_720p.flv?txSecret=75dac9327332fa0c3134dbe7f6bdacc6&txTime=5eccac52
 央视频道,#genre#
 CCTV-1,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
 CCTV-2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
