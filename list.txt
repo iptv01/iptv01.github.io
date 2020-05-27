@@ -1,7 +1,4 @@
 港台频道,#genre#
-翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
-翡翠台,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
-无线新闻台,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
 ViuTV,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/b576564ecb35f2a2ceb9b77359a017ed.flv
 有线新闻,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/582b3b734405152e5141fa694647fc94.flv
 无线新闻,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/e675bba917596ce3e1a67fe9634c1569.flv
