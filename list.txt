@@ -1,9 +1,9 @@
 港台频道,#genre#
-ViuTV,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/b576564ecb35f2a2ceb9b77359a017ed.flv
+ViuTV,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/0d5a7c2446b2c8fc79935ead172fa6d2.flv
 有线新闻,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/ff267486b2f519bb8354a487c2fc1ea0.flv
 无线新闻,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/a020e0fd78e35d91a7184e6bbb3ef203.flv
 翡翠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/eb65e2c0f95b7ea7fe98616047d91bc0.flv
-明珠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/808ee635c5c0787e76f4010e6788351b.flv
+明珠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/1cea328d499715b7297adc52bd647220.flv
 J2,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/dac0ee08ba8c4fcefb8fb84029ea7c26.flv
 NOW新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/3d9b691c3229b252c5cc3b28e7c01997.flv
 星河台,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
