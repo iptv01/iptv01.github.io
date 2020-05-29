@@ -2,7 +2,7 @@
 ViuTV,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/7ad266d7e836541f9a28c36dc585a0bd.flv
 有线新闻,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/ed260d72393cbc630b3fedb84782f84e.flv
 无线新闻,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/1c43d18cbc4d226c4b70c257e31ebfdd.flv
-翡翠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/0b416e358ae5c568bb2a3d21ab33117d.flv
+翡翠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/eb05a2c0bcf8c1623257ef508db25944.flv
 明珠台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/f581af574755b28c5a4ed4cca2e42c50.flv
 NOW新闻台,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/a8aa4fcbb4bd973393aa15fd6f1833f9.flv
 J2,https://qh1-flv.live.huajiao.com:443/live_huajiao_h265/4d606a2a84a24f043bcf8a821fb8fd97.flv
