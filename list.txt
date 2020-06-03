@@ -2,7 +2,7 @@
 ViuTV,http://video.0058.com:80/RoomVideoChat/659511e41eee62731105a5916c48c9d0/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159114646461554&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
 有线新闻,http://video.0058.com:80/RoomVideoChat/076000eefd063d006e191aa0261ae9ad/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159114657441778&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
 无线新闻,http://video.0058.com:80/RoomVideoChat/c9fa45779ac97f1643110c06cbf379a6/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159114667149376&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
-翡翠台,http://video.0058.com:80/RoomVideoChat/0153c678661fd49c8064573e0f74b969/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159114674466559&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
+翡翠台,http://video.0058.com:80/RoomVideoChat/dbd1cfc5648c5ed5f9fab0ca0efa1d99/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159117924893845&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
 明珠台,http://video.0058.com:80/RoomVideoChat/beaae914f189be9f6f1fc8b782ae571d/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159114677508823&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
 J2,http://video.0058.com:80/RoomVideoChat/517fe169e652500d1a1da16c10a29806/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159114680670668&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
 NOW新闻台,http://video.0058.com:80/RoomVideoChat/1c3b8fc137bcdfc90c6594d9fb5e3129/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159114683811646&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
