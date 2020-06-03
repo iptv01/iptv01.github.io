@@ -1,11 +1,11 @@
 港台频道,#genre#
-ViuTV,http://video.0058.com:80/RoomVideoChat/659511e41eee62731105a5916c48c9d0/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159114646461554&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
-有线新闻,http://video.0058.com:80/RoomVideoChat/076000eefd063d006e191aa0261ae9ad/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159114657441778&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
-无线新闻,http://video.0058.com:80/RoomVideoChat/c9fa45779ac97f1643110c06cbf379a6/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159114667149376&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
+ViuTV,http://video.0058.com:80/RoomVideoChat/0f6ca74a87ae5377215477c9dfaf4c6b/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159117936034868&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
+有线新闻,http://video.0058.com:80/RoomVideoChat/2b58d1aec08b24ab0012f9bc96d213f0/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159117942153798&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
+无线新闻,http://video.0058.com:80/RoomVideoChat/a2a86ca2dce1d35033ba095862733ab8/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159117945917302&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
 翡翠台,http://video.0058.com:80/RoomVideoChat/dbd1cfc5648c5ed5f9fab0ca0efa1d99/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159117924893845&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
-明珠台,http://video.0058.com:80/RoomVideoChat/beaae914f189be9f6f1fc8b782ae571d/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159114677508823&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
-J2,http://video.0058.com:80/RoomVideoChat/517fe169e652500d1a1da16c10a29806/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159114680670668&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
-NOW新闻台,http://video.0058.com:80/RoomVideoChat/1c3b8fc137bcdfc90c6594d9fb5e3129/playlist.m3u8?wsSession=d8e0f28979e5caa1e33026f1-159114683811646&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
+明珠台,http://video.0058.com:80/RoomVideoChat/55e7ca77027b7a4cd5e79f1bfee1efa3/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159117950549418&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
+J2,http://video.0058.com:80/RoomVideoChat/9c4bb428cc33baec6e31d368934f9215/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159117954365196&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
+NOW新闻台,http://video.0058.com:80/RoomVideoChat/102a27c9b9df167ee4ae55956a1e0bd0/playlist.m3u8?wsSession=34eebb6bf5841007dc7027ad-159117959641448&wsIPSercert=efc47a6e4c1619202b5472f3886dfe58&wsMonitor=0
 凤凰卫视中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰卫视资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 凤凰中文 官方FHD,http://tv.sason.xyz/proxy/fh.php?id=zw
