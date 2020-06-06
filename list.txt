@@ -1,11 +1,11 @@
 港台频道,#genre#
 ViuTV,http://video.0058.com/RoomVideoChat/1c9cdc431fcc212e2453ce1f5fb09429/playlist.m3u8
-有线新闻,http://video.0058.com/RoomVideoChat/c7890491a71f0e12cce50cf14d49120d/playlist.m3u8
-无线新闻,http://video.0058.com/RoomVideoChat/2136033459fa8272bfb2f3bf4239a810/playlist.m3u8
-翡翠台,http://video.0058.com/RoomVideoChat/b31e9546681a54cfc45036e8684eb0bb/playlist.m3u8
+有线新闻,http://video.0058.com/RoomVideoChat/ea79f78c2d9c6361fac389efc8a60d84/playlist.m3u8
+无线新闻,http://video.0058.com/RoomVideoChat/7a283002e97535c23b49a404602d9d2e/playlist.m3u8
+翡翠台,http://video.0058.com/RoomVideoChat/9370b81993908d42f530623b6ab2a807/playlist.m3u8
 明珠台,http://video.0058.com/RoomVideoChat/26f1e01ffd8811a099ee10f0d8ac2654/playlist.m3u8
 J2,http://video.0058.com/RoomVideoChat/e03e04e0d754b6d3ccb80be38577f445/playlist.m3u8
-NOW新闻台,http://video.0058.com/RoomVideoChat/cde89868f589e8e4ee264138dfdb5141/playlist.m3u8
+NOW新闻台,http://video.0058.com/RoomVideoChat/c9ab163c2d9807aed237c244dcf6c842/playlist.m3u8
 凤凰卫视中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰卫视资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 凤凰中文 官方FHD,http://tv.sason.xyz/proxy/fh.php?id=zw
