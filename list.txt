@@ -1,11 +1,10 @@
 港台频道,#genre#
-ViuTV,http://pullstream-ucan.speedws.com/live/469ebffafc34d2c8fa497a4c92690a65.flv
-有线新闻,http://pullstream-ucan.speedws.com/live/6ca08635892f7f6934f464c431490ffd.flv
-无线新闻,http://pullstream-ucan.speedws.com/live/4295f90df85457cf3b4b1d5f1945dedf/playlist.m3u8
-翡翠台,http://pullstream-ucan.speedws.com/live/cd9fdae72ad3f45d8462b34a473b3f49.flv
-明珠台,http://pullstream-ucan.speedws.com/live/ae2fd86a2a2a7ed152490abf2e98553f/playlist.m3u8
-J2,http://pullstream-ucan.speedws.com/live/de77e4fc0ec49f14f83df262c2b8e647.flv
-NOW新闻台,http://pullstream-ucan.speedws.com/live/6eb8300e124c40b0ade479886238b9bc.flv
+有线新闻,http://pullstream-ucan.speedws.com:80/live/ddf782da216cacbedbf40515532b842c.flv
+有线新闻,http://pullstream-ucan.speedws.com:80/live/ef67229e815c5f9317090b98898758b2.flv
+明珠台,http://pullstream-ucan.speedws.com:80/live/8938a71e19a3a9d851154c4d71242852/playlist.m3u8?wsSession=8dd4dbd6cf2f6b8da9cd4995-159396452452693&wsIPSercert=ec1f38d183225a7ff830394d03dc6196&wsMonitor=0
+viutv,http://pullstream-ucan.speedws.com:80/live/1ff86d69ad9acc23f07dc81aac19e00c.flv
+nowtv,http://pullstream-ucan.speedws.com:80/live/03a67da446ef360dd53953d0de3ca34d.flv
+翡翠台,http://pullstream-ucan.speedws.com:80/live/5fd8819db4b8a5da0497167c8c6fdd4f.flv
 凤凰卫视中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰卫视资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 凤凰中文 官方FHD,http://tv.sason.xyz/proxy/fh.php?id=zw
