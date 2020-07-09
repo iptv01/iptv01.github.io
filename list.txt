@@ -1,25 +1,16 @@
 港台频道,#genre#
-翡翠台,P2p://190.2.146.92:18912/5e649e20000e77475449fc9201cd428d.ts
-翡翠台,P2p://51.79.41.138:18912/5dbeb1c60000e0463cdaf50554c93804.ts
-無綫新聞台,P2p://51.79.41.138:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts
-J2,P2p://51.79.41.138:18912/5dbeb1ce0004b0eb3cdb153f4f2c0e31.ts
-無綫財經資訊台,P2p://51.79.41.138:18912/5b14095400047cf53e3473d9c02ef381.ts
-無綫財經資訊台,P2p://51.79.41.138:18912/5dbeb1cc000750169fad18d473f0af6e.ts
-無綫財經資訊台,P2p://51.79.41.138:18912/5b1409fd0000321517d49fa47bea1ace.ts
-明珠台,P2p://51.79.41.138:18912/5dbeb1ca000ccc503cdb07b23a321f0c.ts
-有線新聞台,P2p://51.79.41.138:18912/5b13f6f100047cdec664b8a653e56a48.ts
-香港開電視,P2p://51.79.41.138:18912/5b140a990002d1a8902262fc5a9c23d2.ts
-TVB星河,P2p://51.79.41.138:18912/5d65048c0003e9ae43db80dad0a1af9d.ts
-ViuTV6,P2p://51.79.41.138:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
-ViuTV,P2p://51.79.41.138:18912/5dbeb1c7000938683cdafb0f5bd34044.ts
-now新聞台,P2p://51.79.41.138:18912/5b20e3ae00008df97885a3942ae271db.ts
-TVBJ1,P2p://51.79.41.138:18912/5cf559f800003d1bbad176332c9de847.ts
-TVBJ1,P2p://190.2.146.92:18912/5cf559f800003d1bbad176332c9de847.ts
-星空衛视,P2p://51.79.41.138:18912/5b1409fb0000e9857fe430e18a1c406d.ts
+亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+HKC 有线新闻,http://www.dszbdq.cn/play/hk22.php?id=yxxw#http://www.dszbdq.cn/play/xgyx.php?id=yxxwhd#http://77.83.242.11/hk168.php?id=31&xl=2
+TVB 无线新闻,http://45.93.217.106/jiuban/hg.php?id=1#http://77.83.242.11/hk168.php?id=9&xl=2
+TVB 无线翡翠,http://103.140.229.13/zbtv/zxxg.php?id=1&xl=1#http://77.83.242.11/hk168.php?id=1&xl=2
+TVB J2,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8#http://www.dszbdq.cn/play/list.php?id=tvbj2#http://77.83.242.11/hk168.php?id=12&xl=2
+V I U TV,http://www.dszbdq.cn/play/hk22.php?id=viutv#http://77.83.242.11/hk168.php?id=8&xl=2#http://103.140.229.13/zbtv/zxxg.php?id=8&xl=1
+NOW 新闻频道,http://www.dszbdq.cn/play/hk22.php?id=nownews#http://103.140.229.13/zbtv/zxxg.php?id=16&xl=1#http://77.83.242.11/hk168.php?id=16&xl=2
+TVB 经典频道,http://www.dszbdq.cn/play/list.php?id=tvbjd
+星河频道,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8#http://77.83.242.11/hk168.php?id=17&xl=2
 鳳凰中文台,P2p://51.79.41.138:18912/5b14092b0007595626f44df3b97060cb.ts
 鳳凰資訊台,P2p://51.79.41.138:18912/5b14092b00090483675e74ee2e7efbd8.ts
 鳳凰香港台,P2p://51.79.41.138:18912/5b14092b000ab0583d567c3e6d55c487.ts
-TVBS歡樂台,P2p://51.79.41.138:18912/5b140a99000c97f5656b4fa5d6c2533b.ts
 凤凰卫视中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰卫视资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 央视频道,#genre#
